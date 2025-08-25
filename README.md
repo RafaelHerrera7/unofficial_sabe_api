@@ -1,7 +1,7 @@
 ## Proyecto Académico: API no oficial para SABE (Chile)
 ### Importante
 
-Este proyecto no es oficial y no mantiene ningún tipo de relación con la plataforma SABE (Sistema de Admisión a la Educación Superior, Chile).
+Este proyecto no es oficial y no mantiene ningún tipo de relación con la plataforma SABE (Sistema de Análisis de Bolsas de Empleo).
 El único propósito de este repositorio es académico y educativo.
 No se busca reemplazar, modificar ni interferir con los sistemas oficiales de SABE.
 
