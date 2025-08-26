@@ -45,3 +45,5 @@ Ingeniería de Software (diseño por capas, APIs REST).
 Ciencia de Datos (proceso ETL).
 
 Automatización con Python (scraping, transformación de datos).
+
+Primera interación: https://sence.gob.cl/sence/sabe, esta el fuente que se utilizara
